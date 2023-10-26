@@ -1,0 +1,63 @@
+_raw
+cancer\ code
+treatment/medication\ code
+age\ at 
+job\ coding\:
+job\ soc\ coding\:
+years\ since 
+longest\ period  
+tympanic
+transport
+none\ of\ the\ above
+glasses
+vision
+automated\ reading
+manual\ reading
+hearing\ loss
+blood\ pressure
+atherosclerosis
+otosclerosis
+cerebrovascular
+infarction
+motorway
+subcutaneous
+haemorrhage
+osteo
+anaesthetic
+fibroblastic
+tachycardia
+bladder
+intestinal
+pregnancy
+somnolence
+fracture
+intracranial\ injury
+amputation
+intrathoracic
+poisoning
+respiratory
+wrist
+##main\ ICD10\: A
+##main\ ICD10\: B
+##main\ ICD10\: C
+##main\ ICD10\: D
+##main\ ICD10\: E
+##main\ ICD10\: H
+##main\ ICD10\: I
+##main\ ICD10\: J
+##main\ ICD10\: K
+##main\ ICD10\: L
+##main\ ICD10\: M
+##main\ ICD10\: N
+##main\ ICD10\: O
+##main\ ICD10\: P
+##main\ ICD10\: Q
+##main\ ICD10\: R
+##main\ ICD10\: S
+##main\ ICD10\: T
+##main\ ICD10\: U
+##main\ ICD10\: V
+##main\ ICD10\: W
+##main\ ICD10\: X
+##main\ ICD10\: Y
+##main\ ICD10\: Z

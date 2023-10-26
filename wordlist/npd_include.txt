@@ -1,0 +1,215 @@
+abuse
+alzheimer
+amaurosis
+amnesia
+amnesic
+amygdala
+amyotrophic
+amyotrophy
+anankastic
+anorexia
+anxiety
+anxious
+aphasia
+arithmetic
+asperger
+ataxia
+ataxic
+atrophy
+attention
+autism
+autist
+autistic
+behavioural
+bipolar
+blepharospasm
+brachial
+brain
+bulbia
+bulimia
+carpal tunnel
+catatonic
+cauda equina
+caudate
+causalgia
+cerebell
+cerebral
+cerebro
+cervical
+chorea
+clutter
+cognitive
+compulsive
+concussion
+conduct
+convulsion
+convulsive
+cranial
+creutzfeldt
+cyclothymia
+delirium
+delusional
+dementia
+demential
+dependence syndrome
+depersonalisation
+depression
+depressive
+diplegia
+disintegrative
+dissocial
+dissociative
+dysautonomia
+dyspareunia
+dysreflexia
+dysthymia
+dystonia
+eating disorder
+eaton-lambert
+emotion
+emotionally
+encephalit
+encephalitic
+encephalitis
+encephalo
+encopresis
+enduring
+epilepsy
+epileptic
+extradural
+extrapyramidal
+fatigue
+fetishism
+fugue
+gambling
+ganglia
+ganglion
+gender identity
+genital response
+guillain-barre
+habit
+hallervorden
+hallucinosis
+harmful use
+headache
+hemiplegia
+hippocampus
+histrionic
+horner
+huntington
+hydrocephalus
+hyperkinetic
+hypersomnia
+hypochondriacal
+hypomania
+identity disorder
+impulse
+insomnia
+intoxication
+intracranial
+lacunar
+language
+locked-in
+lumbosacral
+mania
+manic
+melkersson
+mental disorder
+mental distress
+mental health
+mental retardation
+migraine
+monoplegia
+mood
+motor
+myasthenia
+myelin
+myelitis
+myoclonus
+myokymia
+narco
+neoplastic
+nerve
+nervosa
+nervous
+neural
+neuralgia
+neuralgic
+neurasthenia
+neuritis
+neuro
+neuron
+neuropathy
+neurotic
+nightmare
+nucleus accumbens
+obsess
+orgasmic dysfunction
+pallidum
+palsies
+palsy
+panic
+paraesthetica
+paralysis
+paralytic
+paranoid
+paraplegia
+parkinson
+paroxysmal
+personality
+phobia
+phobic
+pick
+plexus
+possession
+premature ejaculation
+psychiatr
+psychiatric
+psychoactive
+psycholog
+psychological
+psychosexual
+psychotic
+putamen
+reading
+sadomasochism
+schizoaffective
+schizoid
+schizophrenia
+schizotypal
+scholastic
+sclerosis
+seizure
+sexual aversion
+sexual desire
+sexual drive
+sexual dysfunction
+sexual orientation
+sexual preference
+sexual relationship
+sleep
+somatisation
+somatoform
+spasm
+speech
+spinal
+stress
+stupor
+stutter
+subdural
+syringo
+tetraplegia
+thalamus
+thoracic
+tic disorder
+torticollis
+tourette
+trance
+transsexual
+transvest
+trauma
+tremor
+trigeminal
+vaginismus
+vomiting
+withdrawal state
