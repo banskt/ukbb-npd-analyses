@@ -1,2 +1,4 @@
 *.swp
 metadata
+jobs/*.err
+jobs/*.out

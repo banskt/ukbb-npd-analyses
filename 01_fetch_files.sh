@@ -1,46 +1,9 @@
 #!/usr/bin/env bash
 
-# Neale lab GWAS manifest
-# Download CSV file of the manifest
-# https://docs.google.com/spreadsheets/d/1kvPoupSzsSFBNSztMzl04xMoSC3Kcx3CrjVf4yBmESU/edit?usp=drive_link
-# From the Excel file, download the spreadsheet titled "Manifest 201807"
+script_dir=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
-manifest_filename="UKBB_GWAS_Imputed_v3_File_Manifest_Release_20180731.csv"
-
-## =========================
-## Setup directory structure
-## =========================
-datadir="/gpfs/commons/groups/knowles_lab/data/gwas/ukbb.imputed_v3.neale/1_raw"
-workdir="/gpfs/commons/home/sbanerjee/work/npd/UKBB"
-metadir="${workdir}/metadata"
-## =========================
-mkdir -p "${datadir}" "${metadir}"
-manifest_filepath="${workdir}/${manifest_filename}"
-manifest_nodos_filepath="${workdir}/${manifest_filename%.csv}_nodos.csv"
-
-## =========================
-## Meta information files
-## =========================
-phenotypes_filepath="${metadir}/phenotypes.both_sexes.v2.tsv.bgz"
-variants_filepath="${metadir}/variants.tsv.bgz"
-biomarkers_filepath="${metadir}/biomarkers.both_sexes.tsv.bgz"
-
-## =========================
-## Manually curated files
-## =========================
-npd_selection_infopath="${workdir}/wordlist/npd_include.txt"
-npd_exclusion_infopath="${workdir}/wordlist/npd_exclude.txt"
-selected_phenotypes_filepath="${workdir}/npd_phenotypes.tsv"
-
-## =========================
-## Source functions
-## =========================
-for srcfile in ${workdir}/utils/*.sh; do
-    echo "Source ${srcfile}"
-    source "${srcfile}"
-done
-
-
+# Common initialization for all scripts.
+source "${script_dir}/initialize_config.sh"
 
 # associative array to keep column IDs from header names
 echo "Read UKBB manifest file."
@@ -52,8 +15,6 @@ eval declare -A header_cols=( \
 echo "Number of headers: ${#header_cols[@]}"
 echo "Header names: ${!header_cols[@]}"
 echo ""
-
-[[ ! -f "${manifest_nodos_filepath}" ]] && sed 's///g' "${manifest_filepath}" > "${manifest_nodos_filepath}"
 
 # wget the metainfo summary files
 for meta_filepath in \
@@ -83,7 +44,7 @@ _select_phenotypes_from_metadata \
     "${npd_exclusion_infopath}" \
     "${selected_phenotypes_filepath}"
 
-# download phenotypes
+# download selected phenotypes
 tail -n +2 "${selected_phenotypes_filepath}" | cut -f1 | while read -r pcode
 do
     awsinfo=$( awk -v FPAT='[^,]*|("([^"]|"")*")' \
@@ -103,7 +64,7 @@ do
         infoselect=$( awk '{ for (i=1; i<=NF; i++) { if ( $i ~ /^http.*both_sexes\.v2.*$/ ) print $i} }' <<< "${awsinfo}" )
     awsurl=${infoselect%%\#*}
     md5hash=${infoselect##*\#}
-    outfile="${datadir}/${pcode}.tsv.bgz"
+    outfile="${rawdata_dir}/${pcode}.tsv.bgz"
     # getting md5s turned out not to be helpful
     # because md5s do not match.
     [[ ! -f ${outfile} ]] && wget -O "${outfile}" "${awsurl}"
