@@ -1,0 +1,318 @@
+Phenotype Code,Phenotype Name,Phenotype Class,Phenotype Description,variable_type,source,n_non_missing,n_missing,n_controls,n_cases
+1160,Sleep duration,Sleep,Sleep duration,ordinal,phesant,359020,2174,NA,NA
+1200,Sleeplessness,Sleep,Sleeplessness / insomnia,ordinal,phesant,360738,456,NA,NA
+1220,Narcolepsy,Sleep,Daytime dozing / sleeping (narcolepsy),ordinal,phesant,359752,1442,NA,NA
+1920,Mood swings,Other,Mood swings,binary,phesant,352604,8590,193622,158982
+1970,Nervous feelings,Anxiety,Nervous feelings,binary,phesant,351829,9365,268709,83120
+1980,Anxious feelings,Anxiety,Worrier / anxious feelings,binary,phesant,351833,9361,152370,199463
+20002_1123,Sleep apnoea (self-report),Sleep,"Non-cancer illness code, self-reported: sleep apnoea",binary,phesant,361141,53,359978,1163
+20002_1240,Neurological injury/trauma (self-report),Neurological,"Non-cancer illness code, self-reported: neurological injury/trauma",binary,phesant,361141,53,361037,104
+20002_1243,Psychiatric problem (self-report),Psychiatric,"Non-cancer illness code, self-reported: psychological/psychiatric problem",binary,phesant,361141,53,360778,363
+20002_1246,Encephalitis (self-report),Other,"Non-cancer illness code, self-reported: encephalitis",binary,phesant,361141,53,360903,238
+20002_1249,Cranial nerve palsy (self-report),Neurological,"Non-cancer illness code, self-reported: cranial nerve problem/palsy",binary,phesant,361141,53,360909,232
+20002_1250,Bell's palsy (self-report),Neurological,"Non-cancer illness code, self-reported: bell's palsy/facial nerve palsy",binary,phesant,361141,53,360783,358
+20002_1251,Spinal cord disorder (self-report),Neurological,"Non-cancer illness code, self-reported: spinal cord disorder",binary,phesant,361141,53,360779,362
+20002_1254,Peripheral nerve disorder (self-report),Neurological,"Non-cancer illness code, self-reported: peripheral nerve disorder",binary,phesant,361141,53,360935,206
+20002_1255,Peripheral neuropathy (self-report),Neurological,"Non-cancer illness code, self-reported: peripheral neuropathy",binary,phesant,361141,53,360621,520
+20002_1256,Guillain-barre syndrome (self-report),Other,"Non-cancer illness code, self-reported: acute infective polyneuritis/guillain-barre syndrome",binary,phesant,361141,53,360971,170
+20002_1257,Compressed nerve (self-report),Neurological,"Non-cancer illness code, self-reported: trapped nerve/compressed nerve",binary,phesant,361141,53,360068,1073
+20002_1258,Chronic neurological problem (self-report),Neurological,"Non-cancer illness code, self-reported: chronic/degenerative neurological problem",binary,phesant,361141,53,361017,124
+20002_1261,Multiple sclerosis (self-report),Neurodegenerative,"Non-cancer illness code, self-reported: multiple sclerosis",binary,phesant,361141,53,359815,1326
+20002_1262,Parkinsons disease (self-report),Neurodegenerative,"Non-cancer illness code, self-reported: parkinsons disease",binary,phesant,361141,53,360489,652
+20002_1264,Epilepsy (self-report),Epilepsy,"Non-cancer illness code, self-reported: epilepsy",binary,phesant,361141,53,358126,3015
+20002_1265,Migraine (self-report),Other,"Non-cancer illness code, self-reported: migraine",binary,phesant,361141,53,350494,10647
+20002_1267,Spinal injury (self-report),Other,"Non-cancer illness code, self-reported: spinal injury",binary,phesant,361141,53,360558,583
+20002_1279,Eye trauma (self-report),Other,"Non-cancer illness code, self-reported: eye trauma",binary,phesant,361141,53,360599,542
+20002_1286,Depression (self-report),Depression,"Non-cancer illness code, self-reported: depression",binary,phesant,361141,53,340493,20648
+20002_1287,Anxiety/panic attacks (self-report),Anxiety,"Non-cancer illness code, self-reported: anxiety/panic attacks",binary,phesant,361141,53,356180,4961
+20002_1288,Nervous breakdown (self-report),Depression,"Non-cancer illness code, self-reported: nervous breakdown",binary,phesant,361141,53,360573,568
+20002_1289,Schizophrenia (self-report),Schizophrenia,"Non-cancer illness code, self-reported: schizophrenia",binary,phesant,361141,53,360750,391
+20002_1291,Mania/bipolar disorder/manic depression (self-report),Bipolar,"Non-cancer illness code, self-reported: mania/bipolar disorder/manic depression",binary,phesant,361141,53,360133,1008
+20002_1384,Scleroderma/systemic sclerosis (self-report),Other,"Non-cancer illness code, self-reported: scleroderma/systemic sclerosis",binary,phesant,361141,53,361020,121
+20002_1394,Peripheral nerve injury (self-report),Other,"Non-cancer illness code, self-reported: peripheral nerve injury",binary,phesant,361141,53,360914,227
+20002_1425,Cerebral aneurysm (self-report),Neurological,"Non-cancer illness code, self-reported: cerebral aneurysm",binary,phesant,361141,53,360885,256
+20002_1433,Cerebral palsy (self-report),Neurological,"Non-cancer illness code, self-reported: cerebral palsy",binary,phesant,361141,53,361018,123
+20002_1434,Other neurological problem (self-report),Neurological,"Non-cancer illness code, self-reported: other neurological problem",binary,phesant,361141,53,359633,1508
+20002_1435,Optic neuritis (self-report),Other,"Non-cancer illness code, self-reported: optic neuritis",binary,phesant,361141,53,361012,129
+20002_1436,Headaches (not migraine) (self-report),Other,"Non-cancer illness code, self-reported: headaches (not migraine)",binary,phesant,361141,53,358119,3022
+20002_1437,Myasthenia gravis (self-report),Other,"Non-cancer illness code, self-reported: myasthenia gravis",binary,phesant,361141,53,361036,105
+20002_1468,Diabetic neuropathy/ulcers (self-report),Other,"Non-cancer illness code, self-reported: diabetic neuropathy/ulcers",binary,phesant,361141,53,361018,123
+20002_1469,PTSD (self-report),Stress,"Non-cancer illness code, self-reported: post-traumatic stress disorder",binary,phesant,361141,53,360875,266
+20002_1470,Anorexia/bulimia/other eating disorder (self-report),Eating,"Non-cancer illness code, self-reported: anorexia/bulimia/other eating disorder",binary,phesant,361141,53,360851,290
+20002_1478,Cervical spondylosis (self-report),Neurological,"Non-cancer illness code, self-reported: cervical spondylosis",binary,phesant,361141,53,358631,2510
+20002_1482,Chronic fatigue syndrome (self-report),Other,"Non-cancer illness code, self-reported: chronic fatigue syndrome",binary,phesant,361141,53,359482,1659
+20002_1523,Trigemminal neuralgia (self-report),Other,"Non-cancer illness code, self-reported: trigemminal neuralgia",binary,phesant,361141,53,360984,157
+20002_1525,Benign / essential tremor (self-report),Other,"Non-cancer illness code, self-reported: benign / essential tremor",binary,phesant,361141,53,361031,110
+20002_1526,Polio / poliomyelitis (self-report),Other,"Non-cancer illness code, self-reported: polio / poliomyelitis",binary,phesant,361141,53,360885,256
+20002_1536,Spinal stenosis (self-report),Other,"Non-cancer illness code, self-reported: spinal stenosis",binary,phesant,361141,53,361031,110
+20002_1541,Carpal tunnel syndrome (self-report),Neurological,"Non-cancer illness code, self-reported: carpal tunnel syndrome",binary,phesant,361141,53,360536,605
+20002_1550,Lichen sclerosis (self-report),Other,"Non-cancer illness code, self-reported: lichen sclerosis",binary,phesant,361141,53,361018,123
+20002_1614,Stress (self-report),Stress,"Non-cancer illness code, self-reported: stress",binary,phesant,361141,53,360713,428
+20002_1616,Insomnia (self-report),Sleep,"Non-cancer illness code, self-reported: insomnia",binary,phesant,361141,53,360786,355
+20002_1683,Benign neuroma (self-report),Other,"Non-cancer illness code, self-reported: benign neuroma",binary,phesant,361141,53,361021,120
+20019_irnt,SRT estimate (left),Intelligence,Speech-reception-threshold (SRT) estimate (left),continuous_irnt,phesant,114811,246383,NA,NA
+20021_irnt,SRT estimate (right),Intelligence,Speech-reception-threshold (SRT) estimate (right),continuous_irnt,phesant,114720,246474,NA,NA
+20107_10,Father: Alzheimer's disease/dementia,Alzheimer,Illnesses of father: Alzheimer's disease/dementia,binary,phesant,312666,48528,297644,15022
+20107_11,Father: Parkinson's disease,Parkinsons,Illnesses of father: Parkinson's disease,binary,phesant,312104,49090,304061,8043
+20107_12,Father: Severe depression,Depression,Illnesses of father: Severe depression,binary,phesant,312437,48757,300516,11921
+2010,Suffer from 'nerves',Neurological,Suffer from 'nerves',binary,phesant,348082,13112,274144,73938
+20110_10,Mother: Alzheimer's disease/dementia,Alzheimer,Illnesses of mother: Alzheimer's disease/dementia,binary,phesant,331041,30153,302534,28507
+20110_11,Mother: Parkinson's disease,Parkinsons,Illnesses of mother: Parkinson's disease,binary,phesant,330077,31117,324634,5443
+20110_12,Mother: Severe depression,Depression,Illnesses of mother: Severe depression,binary,phesant,330653,30541,308649,22004
+20111_10,Siblings: Alzheimer's disease/dementia,Alzheimer,Illnesses of siblings: Alzheimer's disease/dementia,binary,phesant,279062,82132,277453,1609
+20111_11,Siblings: Parkinson's disease,Parkinsons,Illnesses of siblings: Parkinson's disease,binary,phesant,279018,82176,277554,1464
+20111_12,Siblings: Severe depression,Depression,Illnesses of siblings: Severe depression,binary,phesant,279858,81336,259751,20107
+20112_10,Adopted father: Alzheimer's disease/dementia,Alzheimer,Illnesses of adopted father: Alzheimer's disease/dementia,binary,phesant,2562,358632,2416,146
+20113_10,Adopted mother: Alzheimer's disease/dementia,Alzheimer,Illnesses of adopted mother: Alzheimer's disease/dementia,binary,phesant,2935,358259,2654,281
+20113_12,Adopted mother: Severe depression,Depression,Illnesses of adopted mother: Severe depression,binary,phesant,2922,358272,2680,242
+20114_12,Adopted siblings: Severe depression,Depression,Illnesses of adopted siblings: Severe depression,binary,phesant,1819,359375,1672,147
+20122,Bipolar disorder status,Bipolar,Bipolar disorder status,binary,phesant,1064,360130,508,556
+20126_0,No Bipolar or Depression,Bipolar,Bipolar and major depression status: No Bipolar or Depression,binary,phesant,86895,274299,24070,62825
+20126_1,Bipolar I Disorder,Bipolar,Bipolar and major depression status: Bipolar I Disorder,binary,phesant,86895,274299,86339,556
+20126_2,Bipolar II Disorder,Bipolar,Bipolar and major depression status: Bipolar II Disorder,binary,phesant,86895,274299,86387,508
+20126_3,Recurrent major depression (severe),Depression,Bipolar and major depression status: Probable Recurrent major depression (severe),binary,phesant,86895,274299,80591,6304
+20126_4,Recurrent major depression (moderate),Depression,Bipolar and major depression status: Probable Recurrent major depression (moderate),binary,phesant,86895,274299,75993,10902
+20126_5,Single Probable major depression episode,Depression,Bipolar and major depression status: Single Probable major depression episode,binary,phesant,86895,274299,81095,5800
+20127_irnt,Neuroticism score,Neurological,Neuroticism score,continuous_irnt,phesant,293006,68188,NA,NA
+20417,"Tense, sore, or aching muscles during worst period of anxiety",Anxiety,"Tense, sore, or aching muscles during worst period of anxiety",binary,phesant,33301,327893,20305,12996
+20418,Impact on normal roles during worst period of anxiety,Anxiety,Impact on normal roles during worst period of anxiety,ordinal,phesant,36505,324689,NA,NA
+20419,Difficulty concentrating during worst period of anxiety,Anxiety,Difficulty concentrating during worst period of anxiety,binary,phesant,34879,326315,8479,26400
+20421,"Ever felt worried, tense, or anxious for most of a month or longer",Anxiety,"Ever felt worried, tense, or anxious for most of a month or longer",binary,phesant,110315,250879,80964,29351
+20422,More irritable than usual during worst period of anxiety,Anxiety,More irritable than usual during worst period of anxiety,binary,phesant,33425,327769,9411,24014
+20423,Keyed up or on edge during worst period of anxiety,Anxiety,Keyed up or on edge during worst period of anxiety,binary,phesant,34806,326388,7029,27777
+20426,Restless during period of worst anxiety,Anxiety,Restless during period of worst anxiety,binary,phesant,33864,327330,13536,20328
+20427,Frequent trouble falling or staying asleep during worst period of anxiety,Sleep,Frequent trouble falling or staying asleep during worst period of anxiety,binary,phesant,35584,325610,6455,29129
+20428,Professional informed about anxiety,Anxiety,Professional informed about anxiety,binary,phesant,36366,324828,14128,22238
+20429,Easily tired during worst period of anxiety,Anxiety,Easily tired during worst period of anxiety,binary,phesant,34121,327073,9577,24544
+20432,Ongoing behavioural or miscellanous addiction,Other,Ongoing behavioural or miscellanous addiction,binary,phesant,1588,359606,826,762
+20435,Difficulty concentrating during worst depression,Depression,Difficulty concentrating during worst depression,binary,phesant,58750,302444,12472,46278
+20436,Fraction of day affected during worst episode of depression,Depression,Fraction of day affected during worst episode of depression,ordinal,phesant,62464,298730,NA,NA
+20437,Thoughts of death during worst depression,Depression,Thoughts of death during worst depression,binary,phesant,62648,298546,30018,32630
+20438,Duration of worst depression,Depression,Duration of worst depression,ordinal,phesant,65546,295648,NA,NA
+20439,Frequency of depressed days during worst episode of depression,Depression,Frequency of depressed days during worst episode of depression,ordinal,phesant,64524,296670,NA,NA
+20440,Impact on normal roles during worst period of depression,Depression,Impact on normal roles during worst period of depression,ordinal,phesant,66429,294765,NA,NA
+20445,Depression possibly related to childbirth,Depression,Depression possibly related to childbirth,binary,phesant,38007,323187,33173,4834
+20446,Ever had prolonged feelings of sadness or depression,Depression,Ever had prolonged feelings of sadness or depression,binary,phesant,117763,243431,53389,64374
+20447,Depression possibly related to stressful or traumatic event,Depression,Depression possibly related to stressful or traumatic event,binary,phesant,66334,294860,17844,48490
+20448,Professional informed about depression,Depression,Professional informed about depression,binary,phesant,66302,294892,23574,42728
+20449,Feelings of tiredness during worst episode of depression,Depression,Feelings of tiredness during worst episode of depression,binary,phesant,59774,301420,10822,48952
+20450,Feelings of worthlessness during worst period of depression,Depression,Feelings of worthlessness during worst period of depression,binary,phesant,62128,299066,30535,31593
+20462,Distress caused by unusual or psychotic experiences,Psychotic,Distress caused by unusual or psychotic experiences,ordinal,phesant,5663,355531,NA,NA
+20466,Ever prescribed a medication for unusual or psychotic experiences,Psychotic,Ever prescribed a medication for unusual or psychotic experiences,binary,phesant,5777,355417,5135,642
+20467,Frequency of unusual or psychotic experiences in past year,Psychotic,Frequency of unusual or psychotic experiences in past year,ordinal,phesant,5795,355399,NA,NA
+20477,Ever talked to a health professional about unusual or psychotic experiences,Psychotic,Ever talked to a health professional about unusual or psychotic experiences,binary,phesant,5788,355406,4563,1225
+20488,Physically abused by family as a child,Abuse,Physically abused by family as a child,ordinal,phesant,117838,243356,NA,NA
+20493,Severity of problems due to mania or irritability,Mania,Severity of problems due to mania or irritability,binary,phesant,26655,334539,18667,7988
+20495,Avoided activities or situations because of previous stressful experience in past month,Stress,Avoided activities or situations because of previous stressful experience in past month,ordinal,phesant,117868,243326,NA,NA
+20497,Repeated disturbing thoughts of stressful experience in past month,Stress,Repeated disturbing thoughts of stressful experience in past month,ordinal,phesant,117900,243294,NA,NA
+20498,Felt very upset when reminded of stressful experience in past month,Stress,Felt very upset when reminded of stressful experience in past month,ordinal,phesant,117893,243301,NA,NA
+20499,Ever sought or received professional help for mental distress,Stress,Ever sought or received professional help for mental distress,binary,phesant,117677,243517,71657,46020
+20500,Ever suffered mental distress preventing usual activities,Stress,Ever suffered mental distress preventing usual activities,binary,phesant,116527,244667,77846,38681
+20501,Ever had period of mania / excitability,Mania,Ever had period of mania / excitability,binary,phesant,115338,245856,110522,4816
+20506,Recent feelings or nervousness or anxiety,Anxiety,Recent feelings or nervousness or anxiety,ordinal,phesant,117594,243600,NA,NA
+2050,Frequency of depressed mood in last 2 weeks,Depression,Frequency of depressed mood in last 2 weeks,ordinal,phesant,345957,15237,NA,NA
+20510,Recent feelings of depression,Depression,Recent feelings of depression,ordinal,phesant,117656,243538,NA,NA
+20517,"Trouble falling or staying asleep, or sleeping too much",Sleep,"Trouble falling or staying asleep, or sleeping too much",ordinal,phesant,117822,243372,NA,NA
+20532,Did your sleep change?,Sleep,Did your sleep change?,binary,phesant,57086,304108,11546,45540
+20533,Trouble falling asleep,Sleep,Trouble falling asleep,binary,phesant,45540,315654,11049,34491
+20534,Sleeping too much,Sleep,Sleeping too much,binary,phesant,45540,315654,36186,9354
+20536_0,Weight change during worst episode of depression: Stayed about the same or was on a diet,Depression,Weight change during worst episode of depression: Stayed about the same or was on a diet,binary,phesant,56571,304623,33590,22981
+20536_1,Weight change during worst episode of depression: Gained weight,Depression,Weight change during worst episode of depression: Gained weight,binary,phesant,56571,304623,46863,9708
+20536_2,Weight change during worst episode of depression: Lost weight,Depression,Weight change during worst episode of depression: Lost weight,binary,phesant,56571,304623,36258,20313
+20536_3,Weight change during worst episode of depression: Both gained and lost some weight during the episode,Depression,Weight change during worst episode of depression: Both gained and lost some weight during the episode,binary,phesant,56571,304623,53002,3569
+20537,Frequency of difficulty controlling worry during worst period of anxiety,Anxiety,Frequency of difficulty controlling worry during worst period of anxiety,ordinal,phesant,36157,325037,NA,NA
+20538,Worried most days during period of worst anxiety,Anxiety,Worried most days during period of worst anxiety,binary,phesant,35226,325968,4093,31133
+20539,Frequency of inability to stop worrying during worst period of anxiety,Anxiety,Frequency of inability to stop worrying during worst period of anxiety,ordinal,phesant,36237,324957,NA,NA
+20540,Multiple worries during worst period of anxiety,Anxiety,Multiple worries during worst period of anxiety,binary,phesant,35038,326156,8608,26430
+20541,Difficulty stopping worrying during worst period of anxiety,Anxiety,Difficulty stopping worrying during worst period of anxiety,binary,phesant,35523,325671,2057,33466
+20542,Stronger worrying (than other people) during period of worst anxiety,Anxiety,Stronger worrying (than other people) during period of worst anxiety,binary,phesant,25107,336087,4388,20719
+20543,Number of things worried about during worst period of anxiety,Anxiety,Number of things worried about during worst period of anxiety,binary,phesant,35558,325636,19915,15643
+20544_10,"Diagnosed: Mania, hypomania, bipolar or manic-depression",Depression,"Mental health problems ever diagnosed by a professional: Mania, hypomania, bipolar or manic-depression",binary,phesant,117708,243486,117104,604
+20544_11,Diagnosed: Depression,Depression,Mental health problems ever diagnosed by a professional: Depression,binary,phesant,117782,243412,92695,25087
+20544_12,Diagnosed: Bulimia nervosa,Eating,Mental health problems ever diagnosed by a professional: Bulimia nervosa,binary,phesant,117706,243488,117332,374
+20544_13,Diagnosed: Psychological over-eating or binge-eating,Eating,Mental health problems ever diagnosed by a professional: Psychological over-eating or binge-eating,binary,phesant,117707,243487,117203,504
+20544_14,"Diagnosed: Autism, Asperger's or autistic spectrum disorder",ASD,"Mental health problems ever diagnosed by a professional: Autism, Asperger's or autistic spectrum disorder",binary,phesant,117707,243487,117541,166
+20544_15,"Diagnosed: Anxiety, nerves or generalized anxiety disorder",Anxiety,"Mental health problems ever diagnosed by a professional: Anxiety, nerves or generalized anxiety disorder",binary,phesant,117751,243443,101021,16730
+20544_16,Diagnosed: Anorexia nervosa,Eating,Mental health problems ever diagnosed by a professional: Anorexia nervosa,binary,phesant,117708,243486,117018,690
+20544_17,Diagnosed: Agoraphobia,Other,Mental health problems ever diagnosed by a professional: Agoraphobia,binary,phesant,117707,243487,117239,468
+20544_1,Diagnosed: Social anxiety or social phobia,Other,Mental health problems ever diagnosed by a professional: Social anxiety or social phobia,binary,phesant,117716,243478,116242,1474
+20544_2,Diagnosed: Schizophrenia,SCZ,Mental health problems ever diagnosed by a professional: Schizophrenia,binary,phesant,117706,243488,117603,103
+20544_3,Diagnosed: Any other type of psychosis or psychotic illness,Psychotic,Mental health problems ever diagnosed by a professional: Any other type of psychosis or psychotic illness,binary,phesant,117707,243487,117257,450
+20544_4,Diagnosed: A personality disorder,Other,Mental health problems ever diagnosed by a professional: A personality disorder,binary,phesant,117707,243487,117433,274
+20544_5,Diagnosed: Any other phobia (eg disabling fear of heights or spiders),Other,Mental health problems ever diagnosed by a professional: Any other phobia (eg disabling fear of heights or spiders),binary,phesant,117710,243484,116119,1591
+20544_6,Diagnosed: Panic attacks,Panic,Mental health problems ever diagnosed by a professional: Panic attacks,binary,phesant,117722,243472,111204,6518
+20544_7,Diagnosed: Obsessive compulsive disorder (OCD),Psychiatric,Mental health problems ever diagnosed by a professional: Obsessive compulsive disorder (OCD),binary,phesant,117711,243483,116978,733
+20546_1,Substances taken for depression: Unprescribed medication (more than once),Depression,Substances taken for depression: Unprescribed medication (more than once),binary,phesant,117763,243431,113652,4111
+20546_3,Substances taken for depression: Medication prescribed to you (for at least two weeks),Depression,Substances taken for depression: Medication prescribed to you (for at least two weeks),binary,phesant,117763,243431,89412,28351
+20546_4,Substances taken for depression: Drugs or alcohol (more than once),Depression,Substances taken for depression: Drugs or alcohol (more than once),binary,phesant,117763,243431,109136,8627
+20547_1,"Activities undertaken to treat depression: Talking therapies, such as psychotherapy, counselling, group therapy or CBT",Depression,"Activities undertaken to treat depression: Talking therapies, such as psychotherapy, counselling, group therapy or CBT",binary,phesant,117763,243431,91803,25960
+20547_3,"Activities undertaken to treat depression: Other therapeutic activities such as mindfulness, yoga or art classes",Depression,"Activities undertaken to treat depression: Other therapeutic activities such as mindfulness, yoga or art classes",binary,phesant,117763,243431,108564,9199
+20548_1,Manifestations of mania or irritability: I was more talkative than usual,Mania,Manifestations of mania or irritability: I was more talkative than usual,binary,phesant,114422,246772,108957,5465
+20548_2,Manifestations of mania or irritability: I was more restless than usual,Mania,Manifestations of mania or irritability: I was more restless than usual,binary,phesant,114422,246772,101546,12876
+20548_3,Manifestations of mania or irritability: My thoughts were racing,Mania,Manifestations of mania or irritability: My thoughts were racing,binary,phesant,114422,246772,103842,10580
+20548_5,Manifestations of mania or irritability: I needed less sleep than usual,Mania,Manifestations of mania or irritability: I needed less sleep than usual,binary,phesant,114422,246772,110645,3777
+20548_6,Manifestations of mania or irritability: I was more creative or had more ideas than usual,Mania,Manifestations of mania or irritability: I was more creative or had more ideas than usual,binary,phesant,114422,246772,111332,3090
+20548_7,Manifestations of mania or irritability: I was easily distracted,Mania,Manifestations of mania or irritability: I was easily distracted,binary,phesant,114422,246772,105260,9162
+20548_8,Manifestations of mania or irritability: I was more confident than usual,Mania,Manifestations of mania or irritability: I was more confident than usual,binary,phesant,114422,246772,111137,3285
+20548_9,Manifestations of mania or irritability: I was more active than usual,Mania,Manifestations of mania or irritability: I was more active than usual,binary,phesant,114422,246772,108734,5688
+20549_1,Substances taken for anxiety: Unprescribed medication (more than once),Anxiety,Substances taken for anxiety: Unprescribed medication (more than once),binary,phesant,98990,262204,96426,2564
+20549_3,Substances taken for anxiety: Medication prescribed to you (for at least two weeks),Anxiety,Substances taken for anxiety: Medication prescribed to you (for at least two weeks),binary,phesant,98990,262204,86048,12942
+20549_4,Substances taken for anxiety: Drugs or alcohol (more than once),Anxiety,Substances taken for anxiety: Drugs or alcohol (more than once),binary,phesant,98990,262204,93588,5402
+20550_1,"Activities undertaken to treat anxiety: Talking therapies, such as psychotherapy, counselling, group therapy or CBT",Anxiety,"Activities undertaken to treat anxiety: Talking therapies, such as psychotherapy, counselling, group therapy or CBT",binary,phesant,98990,262204,86132,12858
+20550_3,"Activities undertaken to treat anxiety: Other therapeutic activities such as mindfulness, yoga or art classes",Anxiety,"Activities undertaken to treat anxiety: Other therapeutic activities such as mindfulness, yoga or art classes",binary,phesant,98990,262204,93255,5735
+20551_1,"Substance of prescription or over-the-counter medication addiction: A sedative, benzodiazepine or sleeping tablet",Sleep,"Substance of prescription or over-the-counter medication addiction: A sedative, benzodiazepine or sleeping tablet",binary,phesant,116746,244448,116307,439
+20552_1,Behavioural and miscellaneous addictions: Something else not mentioned,Other,Behavioural and miscellaneous addictions: Something else not mentioned,binary,phesant,116746,244448,116305,441
+20552_2,Behavioural and miscellaneous addictions: A behaviour,Other,Behavioural and miscellaneous addictions: A behaviour,binary,phesant,116746,244448,115530,1216
+20554_1,"Actions taken following self-harm: See anyone from psychiatric or mental health services, including liaison services",Other,"Actions taken following self-harm: See anyone from psychiatric or mental health services, including liaison services",binary,phesant,117733,243461,116040,1693
+2090,"Seen doctor (GP) for nerves, anxiety, tension or depression",Depression,"Seen doctor (GP) for nerves, anxiety, tension or depression",binary,phesant,358693,2501,235165,123528
+2100,"Seen a psychiatrist for nerves, anxiety, tension or depression",Depression,"Seen a psychiatrist for nerves, anxiety, tension or depression",binary,phesant,359535,1659,318302,41233
+3799,Headaches for 3+ months,Other,Headaches for 3+ months,binary,phesant,70181,291013,38106,32075
+40001_C719,"Underlying (primary) cause of death: ICD10: C71.9 Brain, unspecified",Brain,"Underlying (primary) cause of death: ICD10: C71.9 Brain, unspecified",binary,phesant,9092,352102,8822,270
+40001_G122,Underlying (primary) cause of death: ICD10: G12.2 Motor neuron disease,Brain,Underlying (primary) cause of death: ICD10: G12.2 Motor neuron disease,binary,phesant,9092,352102,8970,122
+41215_1,"Detention categories: Formally detained under Part II, Mental Health Act 1983",Psychiatric,"Detention categories: Formally detained under Part II, Mental Health Act 1983",binary,phesant,361194,0,358968,2226
+41218_1,History of psychiatric care on admission: One or more previous psychiatric episodes with this Health Care Provider,Psychiatric,History of psychiatric care on admission: One or more previous psychiatric episodes with this Health Care Provider,binary,phesant,1872,359322,618,1254
+41218_2,History of psychiatric care on admission: One or more previous psychiatric episodes with another Health Care Provider,Psychiatric,History of psychiatric care on admission: One or more previous psychiatric episodes with another Health Care Provider,binary,phesant,835,360359,700,135
+41248_3001,Destinations on discharge from hospital (recoded): High security psychiatric hospital: NHS,Psychiatric,Destinations on discharge from hospital (recoded): High security psychiatric hospital: NHS,binary,phesant,359447,1747,359261,186
+41248_5003,"Destinations on discharge from hospital (recoded): Transfer to other NHS provider: Psychiatry, learning disabilities",Psychiatric,"Destinations on discharge from hospital (recoded): Transfer to other NHS provider: Psychiatry, learning disabilities",binary,phesant,359463,1731,359098,365
+4620,Number of depression episodes,Depression,Number of depression episodes,ordinal,phesant,45695,315499,NA,NA
+4642,Ever manic/hyper for 2 days,Mania,Ever manic/hyper for 2 days,binary,phesant,117155,244039,110586,6569
+4968,FI4 : positional arithmetic,Intelligence,FI4 : positional arithmetic,binary,phesant,115690,245504,17346,98344
+4990,FI6 : conditional arithmetic,Intelligence,FI6 : conditional arithmetic,binary,phesant,102181,259013,32237,69944
+5012,FI8 : chained arithmetic,Intelligence,FI8 : chained arithmetic,binary,phesant,75692,285502,26606,49086
+5663,Length of longest manic/irritable episode,Mania,Length of longest manic/irritable episode,binary,phesant,19474,341720,4092,15382
+5674,Severity of manic/irritable episodes,Mania,Severity of manic/irritable episodes,binary,phesant,20984,340210,5768,15216
+5699,FI10 : arithmetic sequence recognition,Intelligence,FI10 : arithmetic sequence recognition,binary,phesant,20880,340314,4159,16721
+6145_1,"Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself",Other,"Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself",binary,phesant,358836,2358,325595,33241
+6145_2,"Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault of a close relative",Other,"Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault of a close relative",binary,phesant,358836,2358,317377,41459
+6145_3,"Illness, injury, bereavement, stress in last 2 years: Death of a close relative",Other,"Illness, injury, bereavement, stress in last 2 years: Death of a close relative",binary,phesant,358836,2358,283531,75305
+6145_4,"Illness, injury, bereavement, stress in last 2 years: Death of a spouse or partner",Other,"Illness, injury, bereavement, stress in last 2 years: Death of a spouse or partner",binary,phesant,358836,2358,353248,5588
+6145_5,"Illness, injury, bereavement, stress in last 2 years: Marital separation/divorce",Other,"Illness, injury, bereavement, stress in last 2 years: Marital separation/divorce",binary,phesant,358836,2358,348020,10816
+6145_6,"Illness, injury, bereavement, stress in last 2 years: Financial difficulties",Other,"Illness, injury, bereavement, stress in last 2 years: Financial difficulties",binary,phesant,358836,2358,318166,40670
+6156_11,Manic/hyper symptoms: I was more active than usual,Mania,Manic/hyper symptoms: I was more active than usual,binary,phesant,24049,337145,18019,6030
+6156_12,Manic/hyper symptoms: I was more talkative than usual,Mania,Manic/hyper symptoms: I was more talkative than usual,binary,phesant,24049,337145,19022,5027
+6156_13,Manic/hyper symptoms: I needed less sleep than usual,Mania,Manic/hyper symptoms: I needed less sleep than usual,binary,phesant,24049,337145,20790,3259
+6156_14,Manic/hyper symptoms: I was more creative or had more ideas than usual,Mania,Manic/hyper symptoms: I was more creative or had more ideas than usual,binary,phesant,24049,337145,21199,2850
+6156_15,Manic/hyper symptoms: All of the above,Mania,Manic/hyper symptoms: All of the above,binary,phesant,24049,337145,21618,2431
+6159_1,Pain type(s) experienced in last month: Headache,Other,Pain type(s) experienced in last month: Headache,binary,phesant,360391,803,288719,71672
+AB1_VIRAL_CNS,Viral infections of the central nervous system,Other,Viral infections of the central nervous system,binary,finngen,361194,0,360997,197
+AD,Alzheimer's disease,Alzheimer,Alzheimer's disease,binary,finngen,361194,0,361075,119
+AMN2,Transient global amnesia,Brain,Transient global amnesia,binary,finngen,361194,0,360911,283
+C3_BRAIN,Malignant neoplasm of brain,Brain,Malignant neoplasm of brain,binary,finngen,361194,0,360819,375
+C3_EYE_BRAIN_NEURO,"Malignant neoplasm of eye, brain and central nervous system",Brain,"Malignant neoplasm of eye, brain and central nervous system",binary,finngen,361194,0,360677,517
+C71,Diagnoses - main ICD10: C71 Malignant neoplasm of brain,Brain,Diagnoses - main ICD10: C71 Malignant neoplasm of brain,binary,icd10,361194,0,360826,368
+C_BRAIN,Malignant neoplasm of brain,Brain,Malignant neoplasm of brain,binary,finngen,361194,0,360819,375
+C_EYE_BRAIN_NEURO,,Brain,,binary,finngen,361194,0,360677,517
+D33,Diagnoses - main ICD10: D33 Benign neoplasm of brain and other parts of central nervous system,Brain,Diagnoses - main ICD10: D33 Benign neoplasm of brain and other parts of central nervous system,binary,icd10,361194,0,360941,253
+D43,Diagnoses - main ICD10: D43 Neoplasm of uncertain or unknown behaviour of brain and central nervous system,Brain,Diagnoses - main ICD10: D43 Neoplasm of uncertain or unknown behaviour of brain and central nervous system,binary,icd10,361194,0,361079,115
+F05,"Diagnoses - main ICD10: F05 Delirium, not induced by alcohol and other psychoactive substances",Other,"Diagnoses - main ICD10: F05 Delirium, not induced by alcohol and other psychoactive substances",binary,icd10,361194,0,361088,106
+F10,Diagnoses - main ICD10: F10 Mental and behavioural disorders due to use of alcohol,Psychiatric,Diagnoses - main ICD10: F10 Mental and behavioural disorders due to use of alcohol,binary,icd10,361194,0,360408,786
+F20,Diagnoses - main ICD10: F20 Schizophrenia,Schizophrenia,Diagnoses - main ICD10: F20 Schizophrenia,binary,icd10,361194,0,360996,198
+F31,Diagnoses - main ICD10: F31 Bipolar affective disorder,Bipolar,Diagnoses - main ICD10: F31 Bipolar affective disorder,binary,icd10,361194,0,360823,371
+F32,Diagnoses - main ICD10: F32 Depressive episode,Depression,Diagnoses - main ICD10: F32 Depressive episode,binary,icd10,361194,0,360418,776
+F33,Diagnoses - main ICD10: F33 Recurrent depressive disorder,Depression,Diagnoses - main ICD10: F33 Recurrent depressive disorder,binary,icd10,361194,0,360901,293
+F41,Diagnoses - main ICD10: F41 Other anxiety disorders,Anxiety,Diagnoses - main ICD10: F41 Other anxiety disorders,binary,icd10,361194,0,360778,416
+F43,"Diagnoses - main ICD10: F43 Reaction to severe stress, and adjustment disorders",Stress,"Diagnoses - main ICD10: F43 Reaction to severe stress, and adjustment disorders",binary,icd10,361194,0,360967,227
+F45,Diagnoses - main ICD10: F45 Somatoform disorders,Other,Diagnoses - main ICD10: F45 Somatoform disorders,binary,icd10,361194,0,360953,241
+F52,"Diagnoses - main ICD10: F52 Sexual dysfunction, not caused by organic disorder or disease",Other,"Diagnoses - main ICD10: F52 Sexual dysfunction, not caused by organic disorder or disease",binary,icd10,361194,0,361073,121
+F5_ALCOHOLAC,Acute alcohol intoxication,Other,Acute alcohol intoxication,binary,finngen,361194,0,361063,131
+F5_ALLANXIOUS,All anxiety disorders,Anxiety,All anxiety disorders,binary,finngen,361194,0,360662,532
+F5_ANXIETY,Other anxiety disorders,Anxiety,Other anxiety disorders,binary,finngen,361194,0,360842,352
+F5_BEHAVE,Behavioural syndromes associated with physiological disturbances and physical factors,Psychiatric,Behavioural syndromes associated with physiological disturbances and physical factors,binary,finngen,361194,0,361011,183
+F5_DEMENTIA,Dementia,Alzheimer,Dementia,binary,finngen,361194,0,361037,157
+F5_DEPRESSIO,Depression,Depression,Depression,binary,finngen,361194,0,360049,1145
+F5_MOOD,Mood [affective] disorders,Other,Mood [affective] disorders,binary,finngen,361194,0,359648,1546
+F5_PANIC,Panic disorder,Panic,Panic disorder,binary,finngen,361194,0,361082,112
+F5_PERSONALITY,Specific personality disorders,Other,Specific personality disorders,binary,finngen,361194,0,361066,128
+F5_SCHIZO,"Schizophrenia, schizotypal and delusional disorders",Schizophrenia,"Schizophrenia, schizotypal and delusional disorders",binary,finngen,361194,0,360733,461
+F99,"Diagnoses - main ICD10: F99 Mental disorder, not otherwise specified",Psychiatric,"Diagnoses - main ICD10: F99 Mental disorder, not otherwise specified",binary,icd10,361194,0,361076,118
+G12,Diagnoses - main ICD10: G12 Spinal muscular atrophy and related syndromes,Brain,Diagnoses - main ICD10: G12 Spinal muscular atrophy and related syndromes,binary,icd10,361194,0,361074,120
+G20,Diagnoses - main ICD10: G20 Parkinson's disease,Neurodegenerative,Diagnoses - main ICD10: G20 Parkinson's disease,binary,icd10,361194,0,360988,206
+G24,Diagnoses - main ICD10: G24 Dystonia,Neurological,Diagnoses - main ICD10: G24 Dystonia,binary,icd10,361194,0,361087,107
+G35,Diagnoses - main ICD10: G35 Multiple sclerosis,Neurodegenerative,Diagnoses - main ICD10: G35 Multiple sclerosis,binary,icd10,361194,0,360628,566
+G37,Diagnoses - main ICD10: G37 Other demyelinating diseases of central nervous system,Neurodegenerative,Diagnoses - main ICD10: G37 Other demyelinating diseases of central nervous system,binary,icd10,361194,0,360994,200
+G40,Diagnoses - main ICD10: G40 Epilepsy,Epilepsy,Diagnoses - main ICD10: G40 Epilepsy,binary,icd10,361194,0,360399,795
+G43,Diagnoses - main ICD10: G43 Migraine,Other,Diagnoses - main ICD10: G43 Migraine,binary,icd10,361194,0,360122,1072
+G44,Diagnoses - main ICD10: G44 Other headache syndromes,Other,Diagnoses - main ICD10: G44 Other headache syndromes,binary,icd10,361194,0,360887,307
+G45,Diagnoses - main ICD10: G45 Transient cerebral ischaemic attacks and related syndromes,Other,Diagnoses - main ICD10: G45 Transient cerebral ischaemic attacks and related syndromes,binary,icd10,361194,0,359450,1744
+G47,Diagnoses - main ICD10: G47 Sleep disorders,Sleep,Diagnoses - main ICD10: G47 Sleep disorders,binary,icd10,361194,0,358471,2723
+G50,Diagnoses - main ICD10: G50 Disorders of trigeminal nerve,Neurodegenerative,Diagnoses - main ICD10: G50 Disorders of trigeminal nerve,binary,icd10,361194,0,360982,212
+G51,Diagnoses - main ICD10: G51 Facial nerve disorders,Neurodegenerative,Diagnoses - main ICD10: G51 Facial nerve disorders,binary,icd10,361194,0,360819,375
+G54,Diagnoses - main ICD10: G54 Nerve root and plexus disorders,Neurodegenerative,Diagnoses - main ICD10: G54 Nerve root and plexus disorders,binary,icd10,361194,0,361051,143
+G56,Diagnoses - main ICD10: G56 Mononeuropathies of upper limb,Neurological,Diagnoses - main ICD10: G56 Mononeuropathies of upper limb,binary,icd10,361194,0,353064,8130
+G57,Diagnoses - main ICD10: G57 Mononeuropathies of lower limb,Neurological,Diagnoses - main ICD10: G57 Mononeuropathies of lower limb,binary,icd10,361194,0,360083,1111
+G58,Diagnoses - main ICD10: G58 Other mononeuropathies,Neurological,Diagnoses - main ICD10: G58 Other mononeuropathies,binary,icd10,361194,0,361062,132
+G61,Diagnoses - main ICD10: G61 Inflammatory polyneuropathy,Neurological,Diagnoses - main ICD10: G61 Inflammatory polyneuropathy,binary,icd10,361194,0,360988,206
+G62,Diagnoses - main ICD10: G62 Other polyneuropathies,Neurological,Diagnoses - main ICD10: G62 Other polyneuropathies,binary,icd10,361194,0,360902,292
+G6_ALS,Motor neuron disease,Neurological,Motor neuron disease,binary,finngen,361194,0,361027,167
+G6_BELLPA,Bell's palsy,Neurological,Bell's palsy,binary,finngen,361194,0,360856,338
+G6_CARPTU,Carpal tunnel syndrome,Neurological,Carpal tunnel syndrome,binary,finngen,361194,0,353221,7973
+G6_CONCUS,Concussion,Other,Concussion,binary,finngen,361194,0,361057,137
+G6_CPETAL,Cerebral palsy and other paralytic syndromes,Neurological,Cerebral palsy and other paralytic syndromes,binary,finngen,361194,0,360610,584
+G6_DEGENOTH,Other and unspecified degenerative diseases of nervous system,Neurodegenerative,Other and unspecified degenerative diseases of nervous system,binary,finngen,361194,0,361088,106
+G6_DEMYEL,Demyelenating diseases of the central nervous system,Neurodegenerative,Demyelenating diseases of the central nervous system,binary,finngen,361194,0,360406,788
+G6_DIFBRAININJ,Diffuse brain injury,Brain,Diffuse brain injury,binary,finngen,361194,0,361079,115
+G6_DISBROTHUNS,"Disorders of brain, other and unspecified",Brain,"Disorders of brain, other and unspecified",binary,finngen,361194,0,361067,127
+G6_EPIPAROX,Episodal and paroxysmal disorders,Other,Episodal and paroxysmal disorders,binary,finngen,361194,0,355776,5418
+G6_GUILBAR,Guillain-Barre syndrome,Other,Guillain-Barre syndrome,binary,finngen,361194,0,361039,155
+G6_HYDROCEPH,Hydrocephalus,Other,Hydrocephalus,binary,finngen,361194,0,361081,113
+G6_ICTRAUOTHUNS,Other and unspecified intracranial injuries,Other,Other and unspecified intracranial injuries,binary,finngen,361194,0,361059,135
+G6_INTRACRATRAUMA,Intracranial trauma,Other,Intracranial trauma,binary,finngen,361194,0,360368,826
+G6_MONOLOWOTHUNS,Other and unspecified mononeuropathies of lower limb,Neurological,Other and unspecified mononeuropathies of lower limb,binary,finngen,361194,0,361064,130
+G6_MONOOTHUNS,"Other and unsepcified mononeuropathies, also in other diseases",Neurological,"Other and unsepcified mononeuropathies, also in other diseases",binary,finngen,361194,0,361050,144
+G6_MYONEU,Diseases of the myoneural junction and muscle,Neurological,Diseases of the myoneural junction and muscle,binary,finngen,361194,0,360960,234
+G6_NERPLEX,"Nerve, nerve root and plexus disorders",Neurological,"Nerve, nerve root and plexus disorders",binary,finngen,361194,0,350296,10898
+G6_NEUATR,Systemic atrophies primarly affecting the central nervous system,Neurodegenerative,Systemic atrophies primarly affecting the central nervous system,binary,finngen,361194,0,360982,212
+G6_NEUINFL,Inflammatory diseases of the central nervous system,Neurodegenerative,Inflammatory diseases of the central nervous system,binary,finngen,361194,0,360889,305
+G6_NEURODEG,Other degenerative diseases of the nervous system,Neurodegenerative,Other degenerative diseases of the nervous system,binary,finngen,361194,0,360952,242
+G6_PLANTAR,Lesion of plantar nerve,Neurological,Lesion of plantar nerve,binary,finngen,361194,0,360215,979
+G6_POLYNEU,Polyneuropathies and other disorders of the peripheral nervous system,Neurological,Polyneuropathies and other disorders of the peripheral nervous system,binary,finngen,361194,0,360634,560
+G6_POLYOTHUNS,"Other and unspecified polyneuropathies, also in other diseases",Neurological,"Other and unspecified polyneuropathies, also in other diseases",binary,finngen,361194,0,360815,379
+G6_ROOTPLEXOTHUNS,"Other and unspecified nerve root and plexus disorders, also in other diseases",Neurological,"Other and unspecified nerve root and plexus disorders, also in other diseases",binary,finngen,361194,0,361030,164
+G6_SLEEPAPNO,Sleep apnoea,Sleep,Sleep apnoea,binary,finngen,361194,0,358945,2249
+G6_TRINEU,Trigeminal neuralgia,Neurological,Trigeminal neuralgia,binary,finngen,361194,0,361005,189
+G6_ULLNLE,Lesion of ulnar nerve,Neurological,Lesion of ulnar nerve,binary,finngen,361194,0,360373,821
+G6_XTRAPYR,Extrapyramidal and movement disorders,Other,Extrapyramidal and movement disorders,binary,finngen,361194,0,360714,480
+G81,Diagnoses - main ICD10: G81 Hemiplegia,Neurodegenerative,Diagnoses - main ICD10: G81 Hemiplegia,binary,icd10,361194,0,360903,291
+G93,Diagnoses - main ICD10: G93 Other disorders of brain,Brain,Diagnoses - main ICD10: G93 Other disorders of brain,binary,icd10,361194,0,360901,293
+G95,Diagnoses - main ICD10: G95 Other diseases of spinal cord,Neurological,Diagnoses - main ICD10: G95 Other diseases of spinal cord,binary,icd10,361194,0,360972,222
+H49,Diagnoses - main ICD10: H49 Paralytic strabismus,Neurodegenerative,Diagnoses - main ICD10: H49 Paralytic strabismus,binary,icd10,361194,0,361059,135
+H7_PARASTRAB,Paralytic strabismus,Neurodegenerative,Paralytic strabismus,binary,finngen,361194,0,361054,140
+H8_BPV,Benign paroxysmal vertigo,Other,Benign paroxysmal vertigo,binary,finngen,361194,0,361046,148
+I45,Diagnoses - main ICD10: I45 Other conduction disorders,Brain,Diagnoses - main ICD10: I45 Other conduction disorders,binary,icd10,361194,0,360902,292
+I9_ANEURYSM,"Cerebral aneurysm, nonruptured",Other,"Cerebral aneurysm, nonruptured",binary,finngen,361194,0,360969,225
+I9_CONDUCTIO,Conduction disorders,Other,Conduction disorders,binary,finngen,361194,0,360139,1055
+I9_INTRACRA,Nontraumatic intracranial haemmorrhage,Other,Nontraumatic intracranial haemmorrhage,binary,finngen,361194,0,359941,1253
+KRA_PSY_ALCOH,"Alcohol abuse, main dg",Other,"Alcohol abuse, main dg",binary,finngen,361194,0,360872,322
+KRA_PSY_ANXIETY,Anxiety disorders,Anxiety,Anxiety disorders,binary,finngen,361194,0,360102,1092
+KRA_PSY_ANYMENTAL,Any mental disorder,Psychiatric,Any mental disorder,binary,finngen,361194,0,356890,4304
+KRA_PSY_ANYMENTAL_SUICID,"Any mental disorder, or suicide (or attempt)",Psychiatric,"Any mental disorder, or suicide (or attempt)",binary,finngen,361194,0,361071,123
+KRA_PSY_DEMENTIA,Any dementia,Alzheimer,Any dementia,binary,finngen,361194,0,360951,243
+KRA_PSY_MOOD,Mood disorders,Other,Mood disorders,binary,finngen,361194,0,359648,1546
+KRA_PSY_PERSON,Personality disorders,Other,Personality disorders,binary,finngen,361194,0,361058,136
+KRA_PSY_SCHIZODEL,Schizophrenia or delusion,Schizophrenia,Schizophrenia or delusion,binary,finngen,361194,0,360733,461
+KRA_PSY_SUBSTANCE,Substance abuse,Other,Substance abuse,binary,finngen,361194,0,360362,832
+M13_ALGONEURO,Alogoneurodystrophy,Neurodegenerative,Alogoneurodystrophy,binary,finngen,361194,0,361071,123
+M13_CERVICALGIA,Cervicalgia,Brain,Cervicalgia,binary,finngen,361194,0,360145,1049
+M13_GANGLION,Ganglion,Brain,Ganglion,binary,finngen,361194,0,358955,2239
+M13_NEURALGIA,"Neuralgia and neuritis, unspecified",Neurological,"Neuralgia and neuritis, unspecified",binary,finngen,361194,0,360984,210
+M13_SPINSTENOSIS,Spinal stenosis,Neurodegenerative,Spinal stenosis,binary,finngen,361194,0,359284,1910
+M13_THORACISPINEPAIN,Pain in thoracic spine,Other,Pain in thoracic spine,binary,finngen,361194,0,361030,164
+M50,Diagnoses - main ICD10: M50 Cervical disk disorders,Other,Diagnoses - main ICD10: M50 Cervical disk disorders,binary,icd10,361194,0,360319,875
+NEURODEGOTH,Other degenerative diseases of the nervous system,Neurodegenerative,Other degenerative diseases of the nervous system,binary,finngen,361194,0,360952,242
+O68,Diagnoses - main ICD10: O68 Labour and delivery complicated by foetal stress [distress],Stress,Diagnoses - main ICD10: O68 Labour and delivery complicated by foetal stress [distress],binary,icd10,361194,0,359312,1882
+PULM_ANXIETY,Anxiety (asthma-related co-morbidities),Anxiety,Anxiety (asthma-related co-morbidities),binary,finngen,361194,0,360662,532
+R11,Diagnoses - main ICD10: R11 Nausea and vomiting,Other,Diagnoses - main ICD10: R11 Nausea and vomiting,binary,icd10,361194,0,358923,2271
+R29,Diagnoses - main ICD10: R29 Other symptoms and signs involving the nervous and musculoskeletal systems,Neurological,Diagnoses - main ICD10: R29 Other symptoms and signs involving the nervous and musculoskeletal systems,binary,icd10,361194,0,360308,886
+R41,Diagnoses - main ICD10: R41 Other symptoms and signs involving cognitive functions and awareness,Intelligence,Diagnoses - main ICD10: R41 Other symptoms and signs involving cognitive functions and awareness,binary,icd10,361194,0,360318,876
+R47,"Diagnoses - main ICD10: R47 Speech disturbances, not elsewhere classified",Other,"Diagnoses - main ICD10: R47 Speech disturbances, not elsewhere classified",binary,icd10,361194,0,360895,299
+R51,Diagnoses - main ICD10: R51 Headache,Other,Diagnoses - main ICD10: R51 Headache,binary,icd10,361194,0,356923,4271
+R53,Diagnoses - main ICD10: R53 Malaise and fatigue,Other,Diagnoses - main ICD10: R53 Malaise and fatigue,binary,icd10,361194,0,360376,818
+R56,"Diagnoses - main ICD10: R56 Convulsions, not elsewhere classified",Other,"Diagnoses - main ICD10: R56 Convulsions, not elsewhere classified",binary,icd10,361194,0,360117,1077
+R90,Diagnoses - main ICD10: R90 Abnormal findings on diagnostic imaging of central nervous system,Neurological,Diagnoses - main ICD10: R90 Abnormal findings on diagnostic imaging of central nervous system,binary,icd10,361194,0,361067,127
+SFN,Small fibre neuropathy,Neurological,Small fibre neuropathy,binary,finngen,361194,0,361051,143
+SLEEP,Sleep disorders (combined),Sleep,Sleep disorders (combined),binary,finngen,361194,0,358243,2951
+T79,"Diagnoses - main ICD10: T79 Certain early complications of trauma, not elsewhere classified",Stress,"Diagnoses - main ICD10: T79 Certain early complications of trauma, not elsewhere classified",binary,icd10,361194,0,360989,205
+TRAUMBRAIN_NONCONCUS,"severe traumatic brain injury, does not include concussion",Brain,"severe traumatic brain injury, does not include concussion",binary,finngen,361194,0,360631,563
+VI_NERVOUS,Diseases of the nervous system,Neurological,Diseases of the nervous system,binary,finngen,361194,0,339871,21323
+V_MENTAL_BEHAV,Mental and behavioural disorders,Psychiatric,Mental and behavioural disorders,binary,finngen,361194,0,356892,4302
+Z43,Diagnoses - main ICD10: Z43 Attention to artificial openings,Other,Diagnoses - main ICD10: Z43 Attention to artificial openings,binary,icd10,361194,0,359838,1356
